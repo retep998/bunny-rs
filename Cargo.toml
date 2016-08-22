@@ -2,5 +2,8 @@
 name = "bunny"
 version = "0.1.0"
 authors = ["Peter Atashian <retep998@gmail.com>"]
+description = "Gives you a bunny."
+repository = "https://github.com/retep998/bunny-rs"
+license = "MIT"
 
 [dependencies]
