@@ -1,9 +1,13 @@
+//! Gives you a bunny.
+
+/// Bunny
 pub fn bunny() -> &'static str {
     "🐇"
 }
 
-//! Alternate name for bunnies.
-
+/// Rabbit
+///
+/// Alternate name for bunnies.
 pub fn rabbit() -> &'static str {
     "🐰"
 }
