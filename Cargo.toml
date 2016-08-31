@@ -1,6 +1,6 @@
 [package]
 name = "bunny"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Peter Atashian <retep998@gmail.com>"]
 description = "Gives you a bunny."
 repository = "https://github.com/retep998/bunny-rs"
