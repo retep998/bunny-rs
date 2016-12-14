@@ -13,3 +13,8 @@ pub fn bunny() -> &'static str {
 pub fn rabbit() -> &'static str {
     "🐰"
 }
+
+/// Acquires and returns a ribbit.
+pub fn ribbit() -> &'static str {
+    "🐸"
+}
